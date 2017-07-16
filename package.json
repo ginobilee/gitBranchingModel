@@ -1,0 +1,22 @@
+{
+  "name": "ldj",
+  "version": "1.0.0",
+  "description": "a test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginobilee/gitBranchingModel.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lsj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginobilee/gitBranchingModel/issues"
+  },
+  "homepage": "https://github.com/ginobilee/gitBranchingModel#readme"
+}
